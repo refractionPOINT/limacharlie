@@ -9,3 +9,4 @@ The LimaCharlie commercial version offers a free tier (no credit card required) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxAxIn3E2Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![LimaCharlie high level overview](https://img.youtube.com/vi/mxAxIn3E2Ew/0.jpg)](https://www.youtube.com/watch?v=mxAxIn3E2Ew)

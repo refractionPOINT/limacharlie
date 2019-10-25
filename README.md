@@ -1,5 +1,10 @@
+<img src="https://storage.googleapis.com/limacharlie-io/logo_horizontal.png" />
+
+
 # LimaCharlie
 LimaCharlie - the most advanced cross-platform open source endpoint detection and response solution - is now available as a cloud hosted utility. Get data flowing in minutes for no cost using the free tier and take advantage of all of the advanced functionality.
+
+
 
 With LimaCharlie you can:
 

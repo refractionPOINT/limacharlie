@@ -1,7 +1,7 @@
 <img src="https://storage.googleapis.com/limacharlie-io/logo_horizontal.png" />
 
 
-The open source version of [LimaCharlie](https://limacharlie.io) has been deprecated and is no longer supported.
+The open source version of [LimaCharlie](https://limacharlie.io) has been turned into a fully-hosted commercial offering that includes a [free tier](https://app.limacharlie.io/signup).
 
 To increase its capability and ease-of-use LimaCharlie has been rolled up into a commercial product that delivers a full stack of information security tools and infrastructure on demand in a fashion similar to Amazon Web Services or the Google Cloud Platform. Our product offering now includes EDR, SASE, Log & Artifact Ingestion and Comms: operations at scale. To get a better understanding of where the product is going please visit the website at [limacharlie.io](https://limacharlie.io)
 

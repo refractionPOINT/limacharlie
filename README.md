@@ -1,25 +1,28 @@
-<img src="https://storage.googleapis.com/limacharlie-io/logo_horizontal.png" />
+<img src="https://storage.googleapis.com/lc-edu/marketing-assets/blue-logo.png" />
 
 
-The open source version of [LimaCharlie](https://limacharlie.io) has been turned into a fully-hosted commercial offering that includes a [free tier](https://app.limacharlie.io/signup).
+The open-source version of [LimaCharlie](https://limacharlie.io) has evolved into a commercial offering that includes a fully featured [free tier](https://app.limacharlie.io/signup). The LimaCharlie SecOps Cloud Platform represents a new approach to cybersecurity.
 
-To increase its capability and ease-of-use LimaCharlie has been rolled up into a commercial product that delivers a full stack of information security tools and infrastructure on demand in a fashion similar to Amazon Web Services or the Google Cloud Platform. Our product offering now includes EDR, SASE, Log & Artifact Ingestion and Comms: operations at scale. To get a better understanding of where the product is going please visit the website at [limacharlie.io](https://limacharlie.io)
+The SecOps Cloud Platform is a construct for delivering the core components needed to secure and monitor any given organization: things like deploying endpoint capabilities through a single agent regardless of the technology, alerting and correlating from logs regardless of the source, automating analysis and response regardless of the environment.
 
-The LimaCharlie commercial version offers a free tier (no credit card required) of two sensors that includes a years worth of telemetry storage and search. It should take you less than 10 minutes to get data flowing from an endpoint after you [sign up](https://app.limacharlie.io/) (it is really that easy).
+The SecOps Cloud Platform is:
 
-[![LimaCharlie high level overview](https://storage.googleapis.com/limacharlie-io/youtube_screencap.png)](https://www.youtube.com/watch?v=mxAxIn3E2Ew)
+* An environment where many solutions can exist, not as a collection of random tools, but as a series of cybersecurity solutions designed to interoperate in an un-opinionated way, from the ground up; where powerful systems can be put in place at incredible speeds.
+* An environment fundamentally open through APIs, documentation, integrability, and affordability; making it a neutral space for all cybersecurity professionals, whether they’re in enterprise, services or vendors to build appropriate solutions.
+
+The SecOps Cloud Platform is not where data goes to die—it’s a fabric, a sandbox ready for you to use, but also ready to disseminate data and insights to other systems as needed in cost-effective ways.
+
 
 Website: [limacharlie.io](https://limacharlie.io)
 
 Web Application: [app.limacharlie.io](https://app.limacharlie.io)
 
-Online Course: [edu.limacharlie.io](https://edu.limacharlie.io)
+Documentation: [doc.limacharlie.io](https://docs.limacharlie.io)
 
-Documentation: [doc.limacharlie.io](https://doc.limacharlie.io)
-
-API Documentation:[api.limacharlie.io](https://api.limacharlie.io/static/swagger/#/LimaCharlie_Cloud)
+API Documentation:[api.limacharlie.io](https://docs.limacharlie.io/apidocs)
 
 Follow us on Twitter: [@limacharlieio](https://twitter.com/limacharlieio)
-Follow us on YouTube: [/limacharlieo](https://youtube.com/limacharlieio)
 
-Follow us on LinkedIn: [/lima-charlie](https://www.linkedin.com/showcase/lima-charlie/)
+Follow us on YouTube: [/limacharlieio](https://youtube.com/limacharlieio)
+
+Follow us on LinkedIn: [/limacharlieio](https://www.linkedin.com/company/limacharlieio/)
